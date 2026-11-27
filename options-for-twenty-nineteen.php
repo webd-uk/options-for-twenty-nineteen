@@ -23,7 +23,7 @@ if (!class_exists('options_for_twenty_nineteen_class')) {
 
 	class options_for_twenty_nineteen_class {
 
-        public static $version = '1.5.3';
+        const VERSION = '1.5.3';
 
         public $oftn_archive_description_shown;
 

@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: Options for Twenty Nineteen
- * Version: 1.5.3
+ * Version: 1.5.4
  * Plugin URI: https://webd.uk/product/options-for-twenty-nineteen-upgrade/
  * Description: Adds powerful customizer options to modify all aspects of the default WordPress theme Twenty Nineteen
  * Author: Webd Ltd
@@ -23,7 +23,7 @@ if (!class_exists('options_for_twenty_nineteen_class')) {
 
 	class options_for_twenty_nineteen_class {
 
-        const VERSION = '1.5.3';
+        const VERSION = '1.5.4';
 
         public $oftn_archive_description_shown;
 

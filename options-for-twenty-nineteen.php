@@ -11,13 +11,9 @@
  * Text Domain: options-for-twenty-nineteen
  */
 
-
-
 if (!defined('ABSPATH')) {
     exit('This isn\'t the page you\'re looking for. Move along, move along.');
 }
-
-
 
 if (!class_exists('options_for_twenty_nineteen_class')) {
 

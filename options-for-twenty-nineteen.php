@@ -1115,5 +1115,3 @@ h1:not(.site-title):before, h2:before,
     }
 
 }
-
-?>
